@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 He/Him
-16y
+17y
 Taiwan/Tainan
 
 - 🌱 I’m currently learning Java, C++, Web
